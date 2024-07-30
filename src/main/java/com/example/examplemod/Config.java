@@ -43,6 +43,7 @@ public class Config
     public static int magicNumber;
     public static String magicNumberIntroduction;
     public static Set<Item> items;
+    public static int TEMPVARIABLE;
 
     private static boolean validateItemName(final Object obj)
     {
